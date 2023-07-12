@@ -1,6 +1,6 @@
 {
   "name": "placement-cell",
-  "version": "1.0.0",
+  "version": "18.16.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,10 @@
     "express-ejs": "^2.0.0",
     "express-session": "^1.17.3",
     "mongoose": "^6.7.0",
-    "nodemon": "^2.0.20",
+    "nodemon": "^3.0.1",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0"
   }
 }
+
